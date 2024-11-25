@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @codetophel
-- 👀 Interested in ReactJs projects
+- 👋 Hi, I’m Nicco
 - 🌱 TypeScript
 - 💞️ Looking to collaborate on open source projects
 - 📫 nicodemusakande@gmail.com
