@@ -35,18 +35,6 @@ I am a passionate Frontend Developer currently building high-performance, access
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codetophel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Nicco's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codetophel&theme=onedark&column=4" alt="Nicco's GitHub Trophies" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-niccosportfolio.netlify.app-blue?style=flat-square&logo=google-chrome)](https://niccosportfolio.netlify.app)
